@@ -1,0 +1,3 @@
+1.Nguyễn Văn khang:1821050707 : thiết thế front-ends,tổng hợp kết nối các file, thêm sửa xóa, lấy dữ liệu mysql ,thiết kế trang quản trị. 
+2.Trần Minh Đức   :1821050702 : phân trang sản phẩm, đưa dữ liệu lên website, làm login 
+3.Vũ Ngọc Huyên   :1821050652 : thiết kế trang dich vụ,dòng xe,ajax

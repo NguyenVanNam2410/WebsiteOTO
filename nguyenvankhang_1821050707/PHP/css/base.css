@@ -1,0 +1,38 @@
+:root{
+    --white-color:#fff;
+    --black-color:#000;
+    --text-color:#333;
+    --style-color:#f3f3f3;
+    --primary-color:#EE4D2D;
+    --border--color:#dbdbdb;
+    --star-color:#FFCE3E;
+    --header-height:98px;
+    --display-color: #ccc;
+}
+*{
+    box-sizing: inherit;
+}
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'roboto', sans-serif;
+    box-sizing: border-box;
+}
+.heading{
+    border-bottom: 2px solid #c8102e;
+    padding: 44px 0 18px 0;
+}
+.heading span{
+    font-size: 3rem;
+}
+.nav_a{
+    position: relative;
+}
+.nav_navbar_con{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    border-radius: 2px;
+    background-color: var(--white-color);
+}
